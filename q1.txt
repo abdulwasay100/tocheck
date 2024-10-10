@@ -1,2 +1,3 @@
 hi my name is abdul
 # this line was written by abdulwasay100 ( Github)
+# now git push comamnd will be used only
